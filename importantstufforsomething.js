@@ -31,4 +31,6 @@ function setCookie(cname, cvalue, exdays) {
       }
     }
   }
-  var reprogrammable
+  var reprogrammable = "this variable is not programmed yet"
+  alert("if you see this the javascript is working")
+  
