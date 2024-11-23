@@ -1,0 +1,9 @@
+.btn:hover {
+    border-radius: 50px;
+  }
+img:hover {
+border-radius: 35px;
+}
+img{
+    width:100px;
+}
